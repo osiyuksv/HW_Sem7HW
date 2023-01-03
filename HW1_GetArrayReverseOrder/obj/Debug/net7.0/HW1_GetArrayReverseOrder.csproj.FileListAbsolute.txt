@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem8HW\HW1_GetArrayReverseOrder\bin\Debug\net7.0\HW1_GetArrayReverseOrder.exe
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem8HW\HW1_GetArrayReverseOrder\bin\Debug\net7.0\HW1_GetArrayReverseOrder.deps.json
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem8HW\HW1_GetArrayReverseOrder\bin\Debug\net7.0\HW1_GetArrayReverseOrder.runtimeconfig.json
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem8HW\HW1_GetArrayReverseOrder\bin\Debug\net7.0\HW1_GetArrayReverseOrder.dll
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem8HW\HW1_GetArrayReverseOrder\bin\Debug\net7.0\HW1_GetArrayReverseOrder.pdb
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem8HW\HW1_GetArrayReverseOrder\obj\Debug\net7.0\HW1_GetArrayReverseOrder.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem8HW\HW1_GetArrayReverseOrder\obj\Debug\net7.0\HW1_GetArrayReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem8HW\HW1_GetArrayReverseOrder\obj\Debug\net7.0\HW1_GetArrayReverseOrder.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem8HW\HW1_GetArrayReverseOrder\obj\Debug\net7.0\HW1_GetArrayReverseOrder.AssemblyInfo.cs
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem8HW\HW1_GetArrayReverseOrder\obj\Debug\net7.0\HW1_GetArrayReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem8HW\HW1_GetArrayReverseOrder\obj\Debug\net7.0\HW1_GetArrayReverseOrder.dll
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem8HW\HW1_GetArrayReverseOrder\obj\Debug\net7.0\refint\HW1_GetArrayReverseOrder.dll
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem8HW\HW1_GetArrayReverseOrder\obj\Debug\net7.0\HW1_GetArrayReverseOrder.pdb
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem8HW\HW1_GetArrayReverseOrder\obj\Debug\net7.0\HW1_GetArrayReverseOrder.genruntimeconfig.cache
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem8HW\HW1_GetArrayReverseOrder\obj\Debug\net7.0\ref\HW1_GetArrayReverseOrder.dll
